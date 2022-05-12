@@ -1,0 +1,42 @@
+Inicio: 9/05/2022
+Salida a PDN: 27/05/2022
+
+HISTORIA DE USUARIO
+
+HU1 Consulta y compra de vuelos
+
+Yo como usuario
+Necesito poder consultar y comprar vuelos en la pagina Web LATAM AIRLINES
+Para ver y obtener el mejor precio para mi viaje
+
+Criterios de aceptación
+
+1) Se Se puede consultar y comprar vuelos usando Millas LATAM Pass.
+2) Al consultar un vuelo de solo ida no te deje seleccionar mas de un viaje.
+3) se tendra una opción para cambiar el vuelo o asiento seleccionado.
+4) Se La consulta tendra un filtro para ordenar la busqueda de los vuelos segun la necesidad.
+5) La compra del vuelo se hara por tarjeta de credito o debito con CVV.
+6) Los campos para realizar la compra deben ser obligatorios.
+7) Los campos solo reciben valores validos segun su tipologia.
+8) Si el usuario tarda demasiado tiempo en efectuar el pago, se le daran 5 minutos para volver a su compra, si no su compra se cancelara.
+9) Al cancelarse la compra se dara dos opciones: elegir otro vuelo o actualizar la compra.
+
+
+Preguntas abiertas:
+
+
+A.	¿Cree usted que puede diseñar casos de prueba sin tener la aplicación? ¿por qué?
+	No, por que para diseñar los casos de prueba se tiene que tener conocimiento sobre el flujo de los datos y hacer smoke test en la aplicación para verificar su funcionalidad
+
+B.	¿Qué información o documentación considera importante para el inicio de las pruebas?
+	Historias de usuario, Contextualización sobre el funcionamiento del aplicativo, Datos de prueba y documentación del proyecto.
+
+C.	¿si la documentación no es clara usted que haría?
+	Solicitar mas información con respecto a la documentación y refinar las historias de usuario con el PO y equipo de desarrollo.
+
+D.	¿Quién cree que es el responsable de que usted conozca el contexto de negocio y la aplicación a probar?
+	PO y equipo de desarrollo.
+
+E.	¿si entregara un informe de avance de sus pruebas que información relacionaría?
+	Inicio de las pruebas, estrategia, casos de pruebas realizados, situacion actual de los casos de prueba: exitosos, no exitosos, pendientes.
+	situacion actual de defectos: encontrados, reportados y solucionados.
