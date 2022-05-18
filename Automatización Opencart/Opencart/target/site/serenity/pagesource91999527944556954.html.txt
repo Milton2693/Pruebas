@@ -1,0 +1,94 @@
+<html dir="ltr" lang="en"><head>
+<meta charset="UTF-8">
+<title>Invoice</title>
+<base href="https://demo.opencart.com/admin/">
+<link href="view/javascript/bootstrap/css/bootstrap.css" rel="stylesheet" media="all">
+<script type="text/javascript" src="view/javascript/jquery/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="view/javascript/bootstrap/js/bootstrap.min.js"></script>
+<link href="view/javascript/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+<link type="text/css" href="view/stylesheet/stylesheet.css" rel="stylesheet" media="all">
+</head>
+<body>
+<div class="container">
+<div style="page-break-after: always;">
+<h1>Invoice #16767</h1>
+<table class="table table-bordered">
+<thead>
+<tr>
+<td colspan="2">Order Details</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 50%;"><address>
+<strong>Your Store</strong><br>
+Address 1
+</address>
+<b>Telephone</b> 123456789<br>
+<b>E-Mail</b> webmaster@opencart.com<br>
+<b>Web Site:</b> <a href="https://demo.opencart.com">https://demo.opencart.com</a></td>
+<td style="width: 50%;"><b>Date Added</b> 18/05/2022<br>
+<b>Order ID:</b> 16767<br>
+<b>Payment Method</b> Cash On Delivery<br>
+<b>Shipping Method</b> Flat Shipping Rate<br>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered">
+<thead>
+<tr>
+<td style="width: 50%;"><b>Payment Address</b></td>
+<td style="width: 50%;"><b>Shipping Address</b></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><address>
+Santiago Giraldo<br>calle10<br>Medellin 12345<br>Antioquia<br>Colombia
+</address></td>
+<td><address>
+Santiago Giraldo<br>calle10<br>Medellin 12345<br>Antioquia<br>Colombia
+</address></td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered">
+<thead>
+<tr>
+<td><b>Product</b></td>
+<td><b>Model</b></td>
+<td class="text-right"><b>Quantity</b></td>
+<td class="text-right"><b>Unit Price</b></td>
+<td class="text-right"><b>Total</b></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HP LP3065
+<br>
+&nbsp;<small> - Delivery Date: 2011-04-22</small>
+</td>
+<td>Product 21</td>
+<td class="text-right">1</td>
+<td class="text-right">$100.00</td>
+<td class="text-right">$100.00</td>
+</tr>
+<tr>
+<td class="text-right" colspan="4"><b>Sub-Total</b></td>
+<td class="text-right">$100.00</td>
+</tr>
+<tr>
+<td class="text-right" colspan="4"><b>Flat Shipping Rate</b></td>
+<td class="text-right">$5.00</td>
+</tr>
+<tr>
+<td class="text-right" colspan="4"><b>Total</b></td>
+<td class="text-right">$105.00</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</body></html>
